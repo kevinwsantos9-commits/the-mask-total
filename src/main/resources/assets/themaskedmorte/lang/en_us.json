@@ -1,0 +1,5 @@
+{
+  "item.themaskedmorte.mask": "Masked Morte Mask",
+  "item.themaskedmorte.mask.tip1": "Wear it and use /morph to become any mob.",
+  "item.themaskedmorte.mask.tip2": "/morph = nearest mob, /morph <mob>, /unmorph"
+}

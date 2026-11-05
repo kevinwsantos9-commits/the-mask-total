@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.nivek.themaskedmorte.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["MobEntityMixin"],
+  "client": ["PlayerEntityRendererMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

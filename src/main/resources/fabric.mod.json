@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "themaskedmorte",
+  "version": "${version}",
+  "name": "The Masked Morte",
+  "description": "Uma mascara preta de olhos brancos que transforma voce em qualquer mob.",
+  "authors": ["NIVEK"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.nivek.themaskedmorte.TheMaskedMorte"],
+    "client": ["com.nivek.themaskedmorte.client.TheMaskedMorteClient"]
+  },
+  "mixins": ["themaskedmorte.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

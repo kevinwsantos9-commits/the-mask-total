@@ -1,0 +1,5 @@
+{
+  "item.themaskedmorte.mask": "Máscara do Masked Morte",
+  "item.themaskedmorte.mask.tip1": "Use no rosto e digite /morph para virar qualquer mob.",
+  "item.themaskedmorte.mask.tip2": "/morph = mob mais próximo, /morph <mob>, /unmorph"
+}
